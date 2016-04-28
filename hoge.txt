@@ -1,2 +1,2 @@
 File if changed.
-second input String.
+File if changed by master.
